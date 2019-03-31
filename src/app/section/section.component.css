@@ -1,0 +1,23 @@
+.button-section{
+    margin-top: 0px;
+    text-align: center;
+    height: 150px;
+    padding: 20px;
+    position: relative;
+    background-color: rgb(18, 42, 73);
+}
+
+.button-section p{
+    color: rgb(216, 212, 212);
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.button-section button{
+    cursor: pointer;
+    margin-right: 50px;
+    padding: 10px;
+    background-color: rgb(18, 42, 73);
+    border: 3px solid rgb(3, 117, 41);
+    color: rgb(3, 117, 41);
+}

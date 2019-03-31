@@ -1,0 +1,42 @@
+.card-list{
+    background-color: rgb(221, 221, 221);
+    height: 200px;
+    margin-top: 0px;
+}
+
+p{
+    color: grey;
+}
+
+strong{
+    color: rgb(59, 59, 59);
+}
+.card-item{
+    list-style: none;
+}
+
+.card-left {
+    display: block;
+    width: 250px;
+    height: 3px;
+    float: left;
+    text-align: center;
+    padding: 0px 0px 0px 40px;
+}
+
+.card-right {
+    display: block;
+    width: 250px;
+    height: 3px;
+    float: right;
+    text-align: center;
+    padding: 0px 40px 0px 0px;
+}
+
+.card-center {
+    display: block;
+    width: 250px;
+    height: 3px;
+    margin: auto;
+    text-align: center;
+}
